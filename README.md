@@ -11,8 +11,8 @@
 ‣ Open up your terminal and type npm install express body-parser cors @google-cloud/text-to-speech dotenv <br />
 
 # ENABLING VOICE:
-> 𝐓𝐡𝐞 𝐯𝐨𝐢𝐜𝐞 𝐟𝐞𝐚𝐭𝐮𝐫𝐞 𝐮𝐬𝐞𝐬 𝐆𝐨𝐨𝐠𝐥𝐞's 𝐭𝐞𝐱𝐭 𝐭𝐨 𝐬𝐩𝐞𝐞𝐜𝐡 𝐀𝐏𝐈, 𝐬𝐨 𝐚 𝐆𝐂𝐏 𝐚𝐜𝐜𝐨𝐮𝐧𝐭 𝐰𝐢𝐥𝐥 𝐛𝐞 𝐧𝐞𝐞𝐝𝐞𝐝​ <br /><br />
-https://cloud.google.com/text-to-speech/docs/before-you-begin <br />
+> 𝐓𝐡𝐞 𝐯𝐨𝐢𝐜𝐞 𝐟𝐞𝐚𝐭𝐮𝐫𝐞 𝐮𝐬𝐞𝐬 𝐆𝐨𝐨𝐠𝐥𝐞's 𝐭𝐞𝐱𝐭 𝐭𝐨 𝐬𝐩𝐞𝐞𝐜𝐡 𝐀𝐏𝐈, 𝐬𝐨 𝐚 𝐆𝐂𝐏 𝐚𝐜𝐜𝐨𝐮𝐧𝐭 𝐰𝐢𝐥𝐥 𝐛𝐞 𝐧𝐞𝐞𝐝𝐞𝐝​ <br />
+https://cloud.google.com/text-to-speech/docs/before-you-begin <br /><br />
 ‣ Once the API in enabled, update the text-to-speech.json file with your GCP service account key file <br />
 
 # START THE AI:
