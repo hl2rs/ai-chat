@@ -19,5 +19,5 @@ https://cloud.google.com/text-to-speech/docs/before-you-begin <br />
 > 𝐓𝐡𝐢𝐬 𝐰𝐢𝐥𝐥 𝐚𝐥𝐥𝐨𝐰 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐭𝐨 𝐬𝐭𝐚𝐫𝐭. 𝐓𝐡𝐞 𝐟𝐨𝐥𝐥𝐨𝐰 𝐧𝐞𝐞𝐝𝐬 𝐭𝐨 𝐛𝐞 𝐢𝐧 𝐭𝐡𝐞 𝐞𝐱𝐚𝐜𝐭 𝐨𝐫𝐝𝐞𝐫 𝐝𝐞𝐬𝐜𝐫𝐢𝐛𝐞𝐝 <br /><br />
 ‣ Open up your terminal and start the text-to-speech.json using the command $env:GOOGLE_APPLICATION_CREDENTIALS = "URL_PATH_TO_TEXT_TO_SPEECH_FILE" - this can be found commented out at bottom of server.js <br />
 ‣ In your terminal, type node server.js <br />
-‣ Turn on your local live server <br />
+‣ Turn on your local live server, make sure that you are using Port: 5000 <br />
 ‣  navigate to chatbot.html <br />
